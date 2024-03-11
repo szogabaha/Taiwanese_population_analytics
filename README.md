@@ -4,3 +4,5 @@ to represent a data from various perspectives + how to use these views to filter
 overall dataset affecting every other views.
 
 The tool represents the age distribution, education level as well as health information over the country's popularion.
+
+![Usage example](D3/.example.gif)
